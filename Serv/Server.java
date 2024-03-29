@@ -35,7 +35,6 @@ public class Server {
     private static class ClientHandler extends Thread {
         private Socket clientSocket; // Socket del client.
         private PrintWriter out; // PrintWriter per inviare dati al client.
-        private String username;
 
         // Costruttore che accetta il socket del client.
         public ClientHandler(Socket socket) {
