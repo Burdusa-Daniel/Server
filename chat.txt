@@ -81,3 +81,37 @@ giulia: fdgfd
 giacomo: exit
 utente connesso dall'IP: 109.52.204.32
 giacomo si è connesso dall'IP 192.168.64.5
+filippo: exit
+utente connesso dall'IP: 79.27.157.237
+giuseppe
+giuseppe: Ciao
+giuseppe: Ciao
+giuseppe: exit
+null si è connesso dall'IP: 80.181.53.81
+filippo
+null si è connesso dall'IP: 79.20.248.105
+giuliasi è connesso dall'IP 192.168.32.1
+null si è connesso dall'IP: 109.52.204.32
+giacomo si è connesso dall'IP 192.168.64.5
+filippo: ggg
+iasi è connesso dall'IP 192.168.32.1
+ si è connesso dall'IP: 79.20.248.105
+giuliasi è connesso dall'IP 192.168.32.1
+ppo
+ si è connesso dall'IP: 80.181.53.81
+filippo
+omo si è connesso dall'IP 192.168.64.5
+ si è connesso dall'IP: 109.52.204.32
+giacomo si è connesso dall'IP 192.168.64.5
+ppo: exit
+ si è connesso dall'IP: 80.181.53.81
+filippo: exit
+giuliasi è
+ si è connesso dall'IP: 79.20.248.105
+giuliasi è connesso dall'IP 192.168.32.1
+giacomo si
+ si è connesso dall'IP: 109.52.204.32
+giacomo si è connesso dall'IP 192.168.64.5
+giacomo: exit
+ si è connesso dall'IP: 109.52.204.32
+giacomo: exit

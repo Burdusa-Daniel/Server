@@ -42,7 +42,7 @@ public class Server {
             this.clientSocket = socket;
             this.out = new PrintWriter(clientSocket.getOutputStream(), true);
         }
-
+      
         // Metodo run eseguito quando il thread è avviato.
         @Override
         public void run() {
@@ -53,8 +53,7 @@ public class Server {
                 clientWriters.add(out); // Aggiunge il PrintWriter all'insieme di client.
 
                 // modo per far vedere l'ip pubblico degli utenti
-                broadcast("utente connesso dall'IP: " + clientSocket.getInetAddress().getHostAddress());
-
+                broadcast(" si è connesso dall'IP: " + clientSocket.getInetAddress().getHostAddress());
                 while (true) { // Ciclo infinito per leggere i messaggi in entrata.
                     String message = in.nextLine(); // Legge la prossima riga di testo inviata dal client.
                     if (message.equalsIgnoreCase("exit")) { // Se il messaggio è "exit", termina il ciclo.
@@ -97,6 +96,6 @@ public class Server {
                 writer.println("Utenti attivi: " + clientWriters.size());
             }
 
-        }
+        } 
     }
 }
