@@ -48,7 +48,7 @@ public class Client {
             });
             serverListener.start(); // Avvia il thread che ascolta i messaggi dal server.
             
-            out.println(username + " si è connesso dall'IP " + InetAddress.getLocalHost().getHostAddress());
+            out.println(username);
 
             // Ciclo principale per l'invio di messaggi al server.
             while (true) {

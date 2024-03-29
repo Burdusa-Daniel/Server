@@ -1,0 +1,83 @@
+pippesi è connesso dall'IP 127.0.1.1
+pippe: 
+pippe: ci sono
+pippe: sono danuel
+filippo si è connesso dall'IP 192.168.1.240
+giuseppe si è connesso dall'IP 127.0.1.1
+giacomo si è connesso dall'IP 127.0.1.1
+giuliasi è connesso dall'IP 192.168.32.1
+Lorenzo si è connesso dall'IP 192.168.147.1
+giacomo: ciao
+giulia: prova
+pippecasi è connesso dall'IP 127.0.1.1
+giuseppe: ottimo
+pippeca: mi vedete
+giuseppe: questa è una prova
+filippo: ooooo
+filippo: ooooo
+pippeca: eexit
+pippeca: exit
+filippo: ggg
+giacomo: prova
+giuseppe: ciao questa è una prova
+filippo: ccc
+giuseppe: exit
+giuseppe si è connesso dall'IP 127.0.1.1
+giuseppe: prova
+giuseppe: |ifconfig
+giuseppe: prova
+giulia: exit
+filippo: exit
+Lorenzo: exit
+giacomo: exit
+giacomo si è connesso dall'IP 127.0.1.1
+giuseppe: exit
+giacomo: pp
+giacomo: rr
+giacomo: rr
+giacomo: èàòààò
+giacomo: °*°ç*àùà+òà
+giacomo: exit
+giacomo si è connesso dall'IP 192.168.64.5
+giuliasi è connesso dall'IP 192.168.32.1
+filippo
+filippo: f
+Lorenzo si è connesso dall'IP 192.168.147.1
+giacomo si è connesso dall'IP 192.168.64.5
+giacomo: prova
+giulia: exit
+giuliasi è connesso dall'IP 192.168.32.1
+giuliasi è connesso dall'IP 192.168.32.1
+filippo
+giacomo si è connesso dall'IP 192.168.64.5
+giacomo: sds
+filippo: dddd
+filippo: exit
+giulia: exit
+giacomo: exit
+filippo
+giacomo si è connesso dall'IP 192.168.64.5
+giuliasi è connesso dall'IP 192.168.32.1
+giuliasi è connesso dall'IP 192.168.32.1
+filippo
+filippo: ffd
+utente connesso dall'IP: 79.20.248.105
+giuliasi è connesso dall'IP 192.168.32.1
+utente connesso dall'IP: 80.181.53.81
+filippo
+utente connesso dall'IP: 109.52.204.32
+giacomo si è connesso dall'IP 192.168.64.5
+giacomo: rere
+giacomo: exit
+utente connesso dall'IP: 109.52.204.32
+giacomo si è connesso dall'IP 79.34.203.112
+giulia: exit
+filippo: exit
+utente connesso dall'IP: 79.20.248.105
+giuliasi è connesso dall'IP 192.168.32.1
+utente connesso dall'IP: 80.181.53.81
+filippo
+giulia: fdgfd
+giacomo: exit
+utente connesso dall'IP: 109.52.204.32
+giacomo si è connesso dall'IP 192.168.64.5
